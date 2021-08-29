@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekjmd
 - 👀 I’m interested in programming
-- 🌱 I’m currently javascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me twitter- @abhishe22308048
 
