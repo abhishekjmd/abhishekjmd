@@ -1,69 +1,112 @@
-# Hi, I'm Abhishek Tiwari 👋
+# Abhishek Tiwari 👨‍💻
 
-> Full-Stack & React Native Engineer · Building scalable mobile and backend systems · Open to SDE roles
+> Full-Stack Engineer building scalable systems across web, mobile, and backend  
+> Focused on performance, system design, and real-world impact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://abhishek-tiwari.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekjmd/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abhishekjmd)
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ What I Do
 
-- 🏗️ Built a complete V1 mobile app from scratch at **Brixi.ai** (React Native + Expo)
-- 📱 2+ years of professional experience across mobile and frontend roles
-- 🏆 2nd place at Silver Oak MLthon · Top 10 at NIT Jalandhar Hackmol 5.0 (as team lead)
-- 🔧 Currently working on **FlowLedger** — a full-stack expense management platform
-- 🎓 B.Tech Computer Engineering, Silver Oak University (2022–2026)
-- 📬 Reach me: abhishektiwariisro1278@gmail.com
+- 🚀 Build **end-to-end full-stack systems** (frontend + backend + infra)
+- 🧠 Design **scalable architectures** and data-driven systems
+- 📊 Develop **analytics platforms & real-time dashboards**
+- ⚙️ Optimize for **performance, reliability, and maintainability**
+
+---
+
+## 🧑‍💻 Experience Highlights
+
+### 🔹 Brixi.ai — Smart CRM Platform
+> Production-grade CRM system used in real-world environments
+
+- 🏗️ **Owned & shipped V1** of the mobile application (React Native + Expo)
+- 🔗 Integrated frontend with backend APIs and real-time workflows
+- ⚙️ Built scalable UI architecture & state management
+- 📱 Delivered production-ready app with authentication and core CRM features
+
+🌐 Web App: https://app.brixi.ai/login  
+📲 App Store: https://apps.apple.com/in/app/brixiai-smart-crm/id6757337216  
+
+---
+
+- 📈 2+ years building **real-world applications**, not just demos
+- 🏆 Hackathon achievements:
+  - 🥈 Silver Oak MLthon (2nd place)
+  - 🔝 Top 10 @ Hackmol 5.0 (NIT Jalandhar) — Team Lead
+
+---
+
+## 🚀 Featured Systems
+
+### 🔹 PulseBoard — Engineering Intelligence Platform
+> Transforms GitHub repository data into actionable engineering insights
+
+- ⚡ Generates **cycle time, PR health, and bottleneck signals**
+- 🧠 Backend analytics engine with **data ingestion, aggregation, and metrics computation**
+- 📊 Interactive dashboard for **engineering performance tracking**
+- 🚀 Built as a **full-stack system (Next.js + Node.js + PostgreSQL)**
+
+🌐 Live: https://pulseboard-six-delta.vercel.app/  
+👉 https://github.com/abhishekjmd/PulseBoard
+
+---
+
+### 🔹 FlowLedger — Expense Management System
+> Full-stack financial system for group expense tracking & settlements
+
+- ⚙️ Built with **Node.js, TypeScript, Prisma, Supabase**
+- 👥 Smart **expense splitting & settlement engine**
+- 📊 Real-time analytics & transaction tracking
+- 🔐 Secure authentication + scalable backend design
+
+👉 https://github.com/abhishekjmd/FlowLedger
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+### Core
+- **Frontend:** React, Next.js, React Native, Expo
+- **Backend:** Node.js, Express, Prisma
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Infra:** Docker, Supabase
 
-**Mobile & Frontend**
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Backend & Infra**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### Languages
+- TypeScript (primary)
+- JavaScript
+- Python
+- C++
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Engineering Mindset
 
-### [FlowLedger](https://github.com/abhishekjmd/FlowLedger) · Node.js · TypeScript · Clerk · Supabase
-Full-stack expense management platform with group splitting, analytics, and settlement tracking.
-
-### [AgriConnect](https://github.com/abhishekjmd) · React Native · Node.js
-Built in 30 hours at a hackathon — connects farmers directly with buyers, improving revenue potential by 25%.
-
-### [MultiFlex](https://github.com/abhishekjmd) · React Native · Express · MongoDB
-Spotify-like video streaming app with playlists, auth, and media management.
+- Build **systems, not just features**
+- Think in **APIs, data flow, and architecture**
+- Optimize for **scale and long-term maintainability**
+- Focus on **real-world impact, not just demos**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishekjmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjmd&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishekjmd&theme=dark&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjmd&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjmd&layout=compact&theme=dark)
 
 ---
 
-*Open to SDE / mobile engineering roles. Let's build something great.*
+## 📬 Let’s Connect
+
+- 🌐 Portfolio: https://abhishek-tiwari.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/abhishekjmd/
+- 📧 Email: abhishektiwariisro1278@gmail.com
+
+---
+
+### ⚡ Final Note
+I don’t just build apps — I build **scalable systems that solve real problems.**
