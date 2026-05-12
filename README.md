@@ -94,10 +94,9 @@
 
 ## 📊 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishekjmd&theme=dark&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjmd&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjmd&layout=compact&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api?username=abhishekjmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjmd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 📬 Let’s Connect
